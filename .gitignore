@@ -1,4 +1,6 @@
 node_modules
+.vscode
+.history
 .cache/
 public/
 .DS_Store
